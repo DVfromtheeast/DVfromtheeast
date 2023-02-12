@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @DVfromtheeast
-- 🌱 I’m currently a designer who works on graphic field and learns how to create interface on different platforms
+- 🌱 I’m a design generalist
 - 📫 How to reach me: 
-- Email: dominik4793@gmail.com  or  vuongduc47@gmail.com
+- Website: https://dvdesign.pro/
+- Email: dominik4793@gmail.com  or  vuongduc47@gmail.com ( for Vietnamese)
 - Discord: DV#8383
 
 <!---

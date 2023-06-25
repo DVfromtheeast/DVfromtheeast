@@ -3,7 +3,7 @@
 - 📫 How to reach me: 
 - Website: https://dvdesign.pro/
 - Email: dominik4793@gmail.com  or  vuongduc47@gmail.com ( for Vietnamese)
-- Discord: DV#8383
+- Discord: dvvvvv
 
 <!---
 DVfromtheeast/DVfromtheeast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

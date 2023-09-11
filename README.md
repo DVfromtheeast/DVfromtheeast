@@ -2,7 +2,7 @@
 - 🌱 I’m a design generalist
 - 📫 How to reach me: 
 - Website: https://dvdesign.pro/
-- Email: dominik4793@gmail.com  or  vuongduc47@gmail.com ( for Vietnamese)
+- Email: vuongduc47@gmail.com
 - Discord: dvvvvv
 
 <!---
